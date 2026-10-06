@@ -1,0 +1,14 @@
+# Compiled class files
+out/
+bin/
+*.class
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
